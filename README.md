@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá, Eu sou o Gustavo Rodrigues :)
 
-<!--
-**Gustavo1471/Gustavo1471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante Full Stacker👨🏽‍💻
+- Sempre em desenvolvimento 😎
+- Atualmente tentando fazer uma transição de carreira (vendedor -> desenvolvedor) 🔄️
+- Sinta-se a vontade, a casa é minha mas também é sua :) 🏠
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https:github.com/Gustavo1471">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo1471&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo1471&hide_progress=true&theme=dark"/>
+</div>
