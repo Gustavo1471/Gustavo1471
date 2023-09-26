@@ -5,7 +5,7 @@
 - Atualmente tentando fazer uma transição de carreira (vendedor -> desenvolvedor) 🔄️
 - Sinta-se a vontade, a casa é minha mas também é sua :) 🏠
 
-<div>
+<div style="display: flex">
     <a href="https:github.com/Gustavo1471">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gustavo1471&show_icons=true&theme=dark"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo1471&hide_progress=true&theme=dark"/>
