@@ -4,7 +4,7 @@
 
 - Tenho 18 anos 🎊
 - Sou estudante Full Stacker👨🏽‍💻
-- Atualmente tentando fazer uma transição de carreira (vendedor -> desenvolvedor) 🔄️
+- Atualmente tentando fazer uma transição de carreira ( vendedor -> desenvolvedor ) 🔄️
 - Gosto muito de praia 🏄🏽‍♂️🏖️
 - Sempre em desenvolvimento 😎
 
