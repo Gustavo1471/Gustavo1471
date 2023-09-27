@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Gustavo Rodrigues :)
 
-<h3>Algumas Informações sobre mim 💻:</h3>
+<h3> Algumas Informações sobre mim 💻 </h3>
 
 - Tenho 18 anos 🎊
 - Sou estudante Full Stacker👨🏽‍💻
