@@ -2,7 +2,7 @@
 
 <h3> Algumas Informações sobre mim 💻 </h3>
 
-- Tenho 18 anos 🎊
+- Tenho 19 anos 🎊
 - Sou estudante Full Stacker👨🏽‍💻
 - Atualmente tentando fazer uma transição de carreira ( vendedor -> desenvolvedor ) 🔄️
 - Gosto muito de praia 🏄🏽‍♂️🏖️
